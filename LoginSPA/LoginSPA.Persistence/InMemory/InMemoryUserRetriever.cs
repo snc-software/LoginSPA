@@ -6,7 +6,7 @@ namespace LoginSPA.Persistence.InMemory
 {
     public class InMemoryUserRetriever : IUserRetriever
     {
-        public UserModel RetrieveByUsername()
+        public UserModel RetrieveByUsername(string username)
         {
             throw new System.NotImplementedException();
         }

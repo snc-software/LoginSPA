@@ -6,7 +6,7 @@ namespace LoginSPA.Persistence
 {
     public class PersistenceUserRetriever : IUserRetriever
     {
-        public UserModel RetrieveByUsername()
+        public UserModel RetrieveByUsername(string username)
         {
             throw new System.NotImplementedException();
         }

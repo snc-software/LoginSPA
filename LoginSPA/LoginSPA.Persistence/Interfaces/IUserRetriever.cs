@@ -5,7 +5,7 @@ namespace LoginSPA.Persistence.Interfaces
 {
     public interface IUserRetriever
     {
-        UserModel RetrieveByUsername();
+        UserModel RetrieveByUsername(string username);
         List<UserModel> RetrieveAll();
     }
 }
