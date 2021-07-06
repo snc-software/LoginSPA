@@ -1,0 +1,15 @@
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.ServiceInterface/bin/Debug/net5.0/LoginSPA.ServiceInterface.deps.json
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.ServiceInterface/bin/Debug/net5.0/LoginSPA.ServiceInterface.dll
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.ServiceInterface/bin/Debug/net5.0/ref/LoginSPA.ServiceInterface.dll
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.ServiceInterface/bin/Debug/net5.0/LoginSPA.ServiceInterface.pdb
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.ServiceInterface/bin/Debug/net5.0/LoginSPA.Models.dll
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.ServiceInterface/bin/Debug/net5.0/LoginSPA.Models.pdb
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.ServiceInterface/obj/Debug/net5.0/LoginSPA.ServiceInterface.csproj.AssemblyReference.cache
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.ServiceInterface/obj/Debug/net5.0/LoginSPA.ServiceInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.ServiceInterface/obj/Debug/net5.0/LoginSPA.ServiceInterface.AssemblyInfoInputs.cache
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.ServiceInterface/obj/Debug/net5.0/LoginSPA.ServiceInterface.AssemblyInfo.cs
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.ServiceInterface/obj/Debug/net5.0/LoginSPA.ServiceInterface.csproj.CoreCompileInputs.cache
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.ServiceInterface/obj/Debug/net5.0/LoginSPA.ServiceInterface.csproj.CopyComplete
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.ServiceInterface/obj/Debug/net5.0/LoginSPA.ServiceInterface.dll
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.ServiceInterface/obj/Debug/net5.0/ref/LoginSPA.ServiceInterface.dll
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.ServiceInterface/obj/Debug/net5.0/LoginSPA.ServiceInterface.pdb

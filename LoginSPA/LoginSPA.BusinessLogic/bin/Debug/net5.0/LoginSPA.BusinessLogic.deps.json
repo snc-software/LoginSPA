@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LoginSPA.BusinessLogic/1.0.0": {
+        "dependencies": {
+          "LoginSPA.Persistence": "1.0.0"
+        },
+        "runtime": {
+          "LoginSPA.BusinessLogic.dll": {}
+        }
+      },
+      "LoginSPA.Models/1.0.0": {
+        "runtime": {
+          "LoginSPA.Models.dll": {}
+        }
+      },
+      "LoginSPA.Persistence/1.0.0": {
+        "dependencies": {
+          "LoginSPA.Models": "1.0.0"
+        },
+        "runtime": {
+          "LoginSPA.Persistence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoginSPA.BusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LoginSPA.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LoginSPA.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

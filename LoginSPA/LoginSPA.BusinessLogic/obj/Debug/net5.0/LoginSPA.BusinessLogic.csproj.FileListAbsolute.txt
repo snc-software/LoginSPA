@@ -1,0 +1,17 @@
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.BusinessLogic/bin/Debug/net5.0/LoginSPA.BusinessLogic.deps.json
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.BusinessLogic/bin/Debug/net5.0/LoginSPA.BusinessLogic.dll
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.BusinessLogic/bin/Debug/net5.0/ref/LoginSPA.BusinessLogic.dll
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.BusinessLogic/bin/Debug/net5.0/LoginSPA.BusinessLogic.pdb
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.BusinessLogic/bin/Debug/net5.0/LoginSPA.Models.dll
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.BusinessLogic/bin/Debug/net5.0/LoginSPA.Persistence.dll
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.BusinessLogic/bin/Debug/net5.0/LoginSPA.Persistence.pdb
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.BusinessLogic/bin/Debug/net5.0/LoginSPA.Models.pdb
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.BusinessLogic/obj/Debug/net5.0/LoginSPA.BusinessLogic.csproj.AssemblyReference.cache
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.BusinessLogic/obj/Debug/net5.0/LoginSPA.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.BusinessLogic/obj/Debug/net5.0/LoginSPA.BusinessLogic.AssemblyInfoInputs.cache
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.BusinessLogic/obj/Debug/net5.0/LoginSPA.BusinessLogic.AssemblyInfo.cs
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.BusinessLogic/obj/Debug/net5.0/LoginSPA.BusinessLogic.csproj.CoreCompileInputs.cache
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.BusinessLogic/obj/Debug/net5.0/LoginSPA.BusinessLogic.csproj.CopyComplete
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.BusinessLogic/obj/Debug/net5.0/LoginSPA.BusinessLogic.dll
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.BusinessLogic/obj/Debug/net5.0/ref/LoginSPA.BusinessLogic.dll
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.BusinessLogic/obj/Debug/net5.0/LoginSPA.BusinessLogic.pdb

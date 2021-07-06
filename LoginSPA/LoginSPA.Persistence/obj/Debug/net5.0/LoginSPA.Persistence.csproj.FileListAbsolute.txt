@@ -1,0 +1,15 @@
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.Persistence/bin/Debug/net5.0/LoginSPA.Persistence.deps.json
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.Persistence/bin/Debug/net5.0/LoginSPA.Persistence.dll
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.Persistence/bin/Debug/net5.0/ref/LoginSPA.Persistence.dll
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.Persistence/bin/Debug/net5.0/LoginSPA.Persistence.pdb
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.Persistence/bin/Debug/net5.0/LoginSPA.Models.dll
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.Persistence/bin/Debug/net5.0/LoginSPA.Models.pdb
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.Persistence/obj/Debug/net5.0/LoginSPA.Persistence.csproj.AssemblyReference.cache
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.Persistence/obj/Debug/net5.0/LoginSPA.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.Persistence/obj/Debug/net5.0/LoginSPA.Persistence.AssemblyInfoInputs.cache
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.Persistence/obj/Debug/net5.0/LoginSPA.Persistence.AssemblyInfo.cs
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.Persistence/obj/Debug/net5.0/LoginSPA.Persistence.csproj.CoreCompileInputs.cache
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.Persistence/obj/Debug/net5.0/LoginSPA.Persistence.csproj.CopyComplete
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.Persistence/obj/Debug/net5.0/LoginSPA.Persistence.dll
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.Persistence/obj/Debug/net5.0/ref/LoginSPA.Persistence.dll
+/Users/scottcrowther/Projects/LoginSPA/LoginSPA/LoginSPA.Persistence/obj/Debug/net5.0/LoginSPA.Persistence.pdb
